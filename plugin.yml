@@ -1,0 +1,6 @@
+name: ChatCleaner
+main: ru.clusterstorm.chatclean.ChatCleaner
+version: 0.1
+softdepend: [ProtocolLib]
+commands:
+  chat:
